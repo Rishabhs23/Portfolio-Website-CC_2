@@ -1,1 +1,6 @@
-# Portfolio-Website-CC_2
+✔️ Portfolio Website \
+
+A Responsive portfolio website using HTML CSS JavaScript and Bootstrap
+
+The site is live at
+
